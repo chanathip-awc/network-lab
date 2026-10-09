@@ -17,7 +17,7 @@ This repository documents the design and verification evidence for a multi-layer
 - Implement redundant gateway services with HSRP.
 - Configure trunk links and EtherChannel for scalable switch connectivity.
 - Integrate FortiGate firewall policies, NAT, routing, and OSPF adjacency.
-- Provide DHCP services from a Linux server.
+- Provide DHCP services from a Client.
 - Validate internet access and access-control behavior from client segments.
 
 ## High-Level Topology
