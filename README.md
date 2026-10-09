@@ -22,7 +22,7 @@ This repository documents the design and verification evidence for a multi-layer
 
 ## High-Level Topology
 
-![Network Topology](01-diagram/01-network-topology.png)
+![Network Topology](01-diagram/01-network-topology-v2.png)
 
 ![GNS3 Topology](01-diagram/02-gns3-topology.png)
 
