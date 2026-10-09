@@ -1,4 +1,4 @@
-# Project 02: Enterprise Network Lab
+# Network Lab
 
 A hands-on network engineering lab built to demonstrate enterprise LAN/WAN design, FortiGate firewall integration, dynamic routing, high availability, access control, DHCP services, and end-to-end connectivity validation.
 
